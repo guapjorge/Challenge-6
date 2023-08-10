@@ -1,0 +1,53 @@
+* {
+    margin: 2px;
+}
+
+body {
+    flex-direction: row;
+    background-size: 100%;
+    background-color: rgb(98, 121, 146);
+}
+
+.name {
+ background-color: #6093d6;
+ text-align: center;
+ padding: 11px;
+}
+
+.side-bar {
+    height: 100%;
+    width: 30%;
+    padding-top: 5px;
+    padding-left: 5px;
+    margin-right: 10px;
+}
+
+#search h2 {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+input {
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px 30px;
+    margin-bottom: px;
+}
+
+#search-button {
+    color: white;
+    background-color: rgb(59, 59, 220);
+    border-color: transparent;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px 110px;
+    text-align: center;
+}
+
+.city {
+    background-color: rgb(210, 226, 232);
+    border-style: solid;
+    border-radius: 15px;
+    width: 30%;
+}
+
