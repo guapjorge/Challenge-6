@@ -5,3 +5,5 @@ I created a website called Weather Chaser. It's a very simple weather app. It's 
 ![Alt text](./images/image.png)
 ## Link to Application
 https://guapjorge.github.io/Challenge-6/
+## Credit
+I had help with a peer on the javascript file.
